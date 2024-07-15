@@ -5,5 +5,4 @@ public class Demo {
 	public Demo() {
 		System.out.println("Initiating Demo Class");
 	}
-	
 }
